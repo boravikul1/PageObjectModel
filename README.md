@@ -1,2 +1,2 @@
-# SeleniumPractice
-SeleniumPractice
+# PageObjectModel
+PageObjectModel
